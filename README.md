@@ -13,7 +13,7 @@ El trabajo consistió en crear una máquina virtual con Ubuntu Desktop 24.04.5 L
 - **Informe en PDF:** configuración de la máquina virtual, instalación de Ubuntu y resultados de la práctica.
 - `tiempos_respuesta.py`: código fuente del programa.
 - `Dockerfile`: instrucciones para construir la imagen Docker del programa.
-- `capturas/`: evidencias del procedimiento y de la ejecución.
+- `documentacion - imagenes/`: evidencias del procedimiento y de la ejecución.
 
 ## Ejecución del programa
 
