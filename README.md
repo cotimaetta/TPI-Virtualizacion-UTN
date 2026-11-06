@@ -6,7 +6,7 @@
 
 ## Descripción
 
-El trabajo consistió en crear una máquina virtual con Ubuntu Desktop 24.04.5 LTS en Oracle VirtualBox sobre Windows. Para comprobar el funcionamiento del entorno, se ejecutó un programa en Python que calcula el promedio de tres tiempos de respuesta simulados.El programa se ejecutó directamente en Ubuntu y dentro de un contenedor Docker, con los mismos datos de prueba en ambos entornos.
+El trabajo consistió en crear una máquina virtual con Ubuntu Desktop 24.04.5 LTS en Oracle VirtualBox sobre Windows. Para comprobar el funcionamiento del entorno, se ejecutó un programa en Python que calcula el promedio de tres tiempos de respuesta simulados. El programa se ejecutó directamente en Ubuntu y dentro de un contenedor Docker, con los mismos datos de prueba en ambos entornos.
 
 ## Contenido
 
