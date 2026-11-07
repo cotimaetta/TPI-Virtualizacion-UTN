@@ -10,10 +10,14 @@ El trabajo consistió en crear una máquina virtual con Ubuntu Desktop 24.04.5 L
 
 ## Contenido
 
-- **Informe en PDF:** configuración de la máquina virtual, instalación de Ubuntu y resultados de la práctica.
+- `TPI_Virtualizacion_Maetta.pdf`: informe con la configuración de la máquina virtual, la instalación de Ubuntu y los resultados de la práctica.
 - `tiempos_respuesta.py`: código fuente del programa.
 - `Dockerfile`: instrucciones para construir la imagen Docker del programa.
 - `documentacion - imagenes/`: evidencias del procedimiento y de la ejecución.
+
+## Video explicativo
+
+[Ver video en YouTube](PEGAR_ACÁ_EL_LINK)
 
 ## Ejecución del programa
 
