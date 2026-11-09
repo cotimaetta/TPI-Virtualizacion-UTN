@@ -17,7 +17,7 @@ El trabajo consistió en crear una máquina virtual con Ubuntu Desktop 24.04.5 L
 
 ## Video explicativo
 
-[Ver video en YouTube](PEGAR_ACÁ_EL_LINK)
+[Ver video en YouTube](https://youtu.be/m0Bc7JTn0iA)
 
 ## Ejecución del programa
 
